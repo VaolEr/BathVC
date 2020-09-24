@@ -79,12 +79,12 @@ bool TouchButtonOn = false;
 // ----------------- Настрйоки WiFi ------------------
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "8In7YQfi6oSalH0cUWrEZJ-wuMTRY6Wu";
+char auth[] = "Insert Yor Token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "netis_2.4G";
-char pass[] = "Valentin";
+char ssid[] = "Your SSID";
+char pass[] = "Your Pass";
 
 
 
