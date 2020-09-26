@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: E:\Work\Work\Eureca\PCBs\VEStriXProjects\BathHumidityControl\BHC_V3.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinAnnularRing_18/35_Rezonit|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width_35um|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_35um|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Clearance_18um|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_18um|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinAnnularRing_18/35*1.5_Rezonit|Scope=Board|Minimum=3.94
