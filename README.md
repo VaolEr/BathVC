@@ -13,21 +13,32 @@ which implements a high-voltage load control scheme by switching a relay.
 The ESP8266 NodeMCU Board was chosen as the MAIN device, because it is WiFI MCU with enouth free pins for this task.
 SHT31-d is selected as the humidity sensor.
 The user interface is designed on Blink, due to the simplicity of organizing communication between the NodeMCU card and the phone.
-//------------------------------------------------------------------------------------------------------------------------------//
+
+//--------------------------------------------------------------------------------------------------------------------------//
 
 ![alt text](screenshots/DeviceBoxVersion.png "Autodec360 device model view 1")
 ![alt text](screenshots/DeviceBoxVersionFull.png "Autodec360 device model view 2")
  
+ //--------------------------------------------------------------------------------------------------------------------------//
+
  Lower I want to show PCB boards models. There was designed 2 versions: one was clemmas, and one with soldering pads for connect AC and Load 
  with device.
+
+//--------------------------------------------------------------------------------------------------------------------------//
 
 ![alt text](screenshots/BoardVersion1.png "Board version for soldering")
 ![alt text](screenshots/BoardVersion2.png "Board version with clemmas")
 
 //--------------------------------------------------------------------------------------------------------------------------//
 
+Work example of Blynk APP show below.
+
+![alt text](screenshots/BlynkApp.png "Blynk APP")
+
 The ESP8266 firmware and Arduino IDE settings are located in the firmware folder.
 In the folder there are 2 pcb3dViews PDF file to view the versions of boards in 3D.
+
+//--------------------------------------------------------------------------------------------------------------------------//
 
 Данный проект был разработан для упралвения вытяжным вентилятором в моей ванной.
 
